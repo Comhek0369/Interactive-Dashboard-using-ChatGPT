@@ -49,17 +49,17 @@ Promt 4 : From the dashboard you created, change the style to glass morphism. Th
 
 ## Screenshorts for interactive sales dashboard
 
--<a href= "">Dashboard</a>
+-<a href= "https://github.com/Comhek0369/Interactive-Dashboard-using-Chatgpt/blob/main/Screenshot%20(298).png">Dashboard</a>
 
--<a href= "">Sales Over Time (Line)</a>
+-<a href= "https://github.com/Comhek0369/Interactive-Dashboard-using-Chatgpt/blob/main/newplot.png">Sales Over Time (Line)</a>
 
--<a href= "">Sales by Category (Bar)</a>
+-<a href= "https://github.com/Comhek0369/Interactive-Dashboard-using-Chatgpt/blob/main/newplot%20(1).png ">Sales by Category (Bar)</a>
 
--<a href= "">Sales by Location (Bar)</a>Sales by Location (Bar)
+-<a href= "https://github.com/Comhek0369/Interactive-Dashboard-using-Chatgpt/blob/main/newplot%20(2).png">Sales by Location (Bar)</a>
 
--<a href= "">Order Status (Pie)</a>Order Status (Pie)
+-<a href= "https://github.com/Comhek0369/Interactive-Dashboard-using-Chatgpt/blob/main/newplot%20(3).png">Order Status (Pie)</a>
 
--<a href= "">Payment Method (Pie)</a>Payment Method (Pie)
+-<a href= "https://github.com/Comhek0369/Interactive-Dashboard-using-Chatgpt/blob/main/newplot%20(4).png">Payment Method (Pie)</a>
 
 ## Final Outcome
 
