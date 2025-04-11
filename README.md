@@ -1,4 +1,4 @@
-# Interactive-Dashboard-using-Chatgpt
+# Interactive-Dashboard-Using-Chatgpt
 ## Project Objective
 To Create a simple excel dashboard with ChatGPT
 
@@ -47,7 +47,7 @@ Promt 3 : Provide this as an HTML downloadable file?
 
 Promt 4 : From the dashboard you created, change the style to glass morphism. Then, adjust the padding width of the charts to 40%, and change the background colour to icy blue. Can you also provide this as a downloadable HTML file?
 
-## Screenshorts for interactive sales dashboard
+## Screenshorts For Interactive Sales Dashboard
 
 -<a href= "https://github.com/Comhek0369/Interactive-Dashboard-using-Chatgpt/blob/main/Screenshot%20(298).png">Dashboard</a>
 
