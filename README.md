@@ -3,6 +3,8 @@
 To Create a simple excel dashboard with ChatGPT
 
 ## Dataset Used 
+-<a href= "">Screenshort</a>
+-''
 ##  Process
 STEP 1 :  Downloading the data as a CSV file.
 
@@ -20,11 +22,17 @@ STEP 7 :  Creating the Dashboard.
 
 ## Visualization Metrics + Business Value
 Summary Table
+
 Metric	                  Visualization	            Business Benefit
+
 Sales Over Time	          Line Chart	              Tracks growth, seasonality
+
 Sales by Category	        Bar Chart	                Product strategy insights
+
 Sales by Location	        Map / Bar Chart	          Regional performance
+
 Order Status	            Pie/Stacked Bar	          Operational efficiency
+
 Payment Method	          Donut Chart	              Customer preference trends
 
 ## ChatGPT Prompt
