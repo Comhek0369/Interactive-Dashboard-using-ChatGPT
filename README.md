@@ -3,8 +3,8 @@
 To Create a simple excel dashboard with ChatGPT
 
 ## Dataset Used 
--<a href= "">Screenshort</a>
--''
+-<a href= "https://github.com/Comhek0369/Interactive-Dashboard-using-Chatgpt/blob/main/amazon_sales_data%202025.csv">CSV.File</a>
+
 ##  Process
 STEP 1 :  Downloading the data as a CSV file.
 
