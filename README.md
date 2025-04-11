@@ -27,13 +27,13 @@ Metric----	                  Visualization----	            Business Benefit
 
 Sales Over Time----	          Line Chart----	              Tracks growth, seasonality
 
-Sales by Category	        Bar Chart	                Product strategy insights
+Sales by Category----	        Bar Chart----	                Product strategy insights
 
-Sales by Location	        Map / Bar Chart	          Regional performance
+Sales by Location----	        Map / Bar Chart----	          Regional performance
 
-Order Status	            Pie/Stacked Bar	          Operational efficiency
+Order Status----	            Pie/Stacked Bar----	          Operational efficiency
 
-Payment Method	          Donut Chart	              Customer preference trends
+Payment Method----	          Donut Chart----	              Customer preference trends
 
 ## ChatGPT Prompt
 
@@ -46,6 +46,20 @@ Note: I need to upload the sales data from my local computer, and it should crea
 Promt 3 : Provide this as an HTML downloadable file?
 
 Promt 4 : From the dashboard you created, change the style to glass morphism. Then, adjust the padding width of the charts to 40%, and change the background colour to icy blue. Can you also provide this as a downloadable HTML file?
+
+## Screenshorts for interactive sales dashboard
+
+-<a href= "">Dashboard</a>
+
+-<a href= "">Sales Over Time (Line)</a>
+
+-<a href= "">Sales by Category (Bar)</a>
+
+-<a href= "">Sales by Location (Bar)</a>Sales by Location (Bar)
+
+-<a href= "">Order Status (Pie)</a>Order Status (Pie)
+
+-<a href= "">Payment Method (Pie)</a>Payment Method (Pie)
 
 ## Final Outcome
 
