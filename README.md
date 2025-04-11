@@ -23,7 +23,7 @@ STEP 7 :  Creating the Dashboard.
 ## Visualization Metrics + Business Value
 Summary Table
 
-Metric	                  Visualization	            Business Benefit
+-'Metric'	                  'Visualization'	            'Business Benefit'
 
 Sales Over Time	          Line Chart	              Tracks growth, seasonality
 
